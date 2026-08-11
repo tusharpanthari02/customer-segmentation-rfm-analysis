@@ -1,4 +1,4 @@
-# Customer Segmentation & Retention Strategy - RFM Analysis
+# Customer Segmentation & Retention Strategy — RFM Analysis
 
 ## Business Problem
 A UK-based online retailer (all-occasion gifts, ~4,300 active customers, £8.9M annual revenue) has no formal way of distinguishing its most valuable customers from one-time or lapsed buyers. Marketing spend is applied uniformly across all customers, with no targeting based on purchase behavior.
@@ -21,6 +21,8 @@ A UK-based online retailer (all-occasion gifts, ~4,300 active customers, £8.9M 
 | Champions | 21.5% | **70.2%** | 15 |
 | At Risk | 6.3% | 4.9% | 137 |
 | Lost | 19.0% | 2.1% | 229 |
+
+![Customer share vs revenue share by segment](outputs/segment_chart.png)
 
 - **A fifth of customers generate over two-thirds of all revenue.** Champions (934 customers) alone drive £6.26M of the £8.9M total — this is the segment the business cannot afford to lose, and current marketing treats them the same as everyone else.
 - **The At Risk segment is the clearest missed opportunity.** These 275 customers used to purchase frequently (avg. 4.9 orders) and spent an average of £1,575 each — the highest average spend outside Champions — but haven't ordered in ~137 days. This is a warm audience, not a cold one.
