@@ -1,4 +1,4 @@
-# Customer Segmentation & Retention Strategy — RFM Analysis
+# Customer Segmentation & Retention Strategy - RFM Analysis
 
 ## Business Problem
 A UK-based online retailer (all-occasion gifts, ~4,300 active customers, £8.9M annual revenue) has no formal way of distinguishing its most valuable customers from one-time or lapsed buyers. Marketing spend is applied uniformly across all customers, with no targeting based on purchase behavior.
